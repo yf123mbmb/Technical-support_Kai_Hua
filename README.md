@@ -1,1 +1,4 @@
-# Technical-support_Kai_Hua
+凯华社区 技术支持
+
+本应用有任何问题请联系我们。
+邮箱：jiezi00703688@yeah.net
